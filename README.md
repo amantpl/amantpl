@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+<div align="center">
+<img src="https://i.pinimg.com/originals/83/1e/00/831e006f229fb7c51763fdb35b08a40b.gif">
+</div>
+
 <div align="center">
   Hi, I’m Aman, a Full Stack Developer from India 👨‍💻 passionate about learning new technologies every day 🚀
 </div>
