@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  Hi, I’m Aman, a Full Stack Developer from India 👨‍💻 passionate about learning new technologies every day 🚀
+  **Hi, I’m Aman, a Full Stack Developer from India 👨‍💻 passionate about learning new technologies every day 🚀**
 </div>
 <br><br>🔭 Currently working on personal projects and occasionally making them explode (oops!).<br><br>🌱 Learning frontend and backend technologies like it's a race I didn’t sign up for.<br><br>❓ My DSA skills are sharp enough to solve problems, but not enough to remember where I left my phone.<br><br>⚡ Fun fact: I treat semicolons like they’re the secret to world peace!
 
