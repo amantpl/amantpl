@@ -8,7 +8,7 @@
   <strong>Hi, I’m Aman, a Full Stack Developer from India 👨‍💻 passionate about learning new technologies every day. 🚀</strong>
 </div>
 
-<br><br>🔭 Currently working on personal projects.<br><br>🌱 Learning frontend and backend technologies.<br><br>❓ My DSA skills are sharp enough to solve problems, but not enough to remember where I left my phone.<br><br>⚡ Fun fact: I love to use ; in javascript.
+<br><br>🔭 Currently working on personal projects.<br><br>🌱 Learning frontend and backend technologies.<br><br>❓ My DSA skills are sharp enough to solve problems. <br><br>⚡ Fun fact: I love to use ; in javascript.
 
 
 ## 🌐 Socials:
